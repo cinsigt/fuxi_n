@@ -129,7 +129,7 @@
 #endif  // __GLIBCXX__
 
 // 抽离出来，方便快速调整整个库的名空间
-#define FUXI_NAMESPACE_BEGIN namespace ::next::fuxi {
+#define FUXI_NAMESPACE_BEGIN namespace next::fuxi {
 #define FUXI_NAMESPACE_END }
 
 // 早期arena patch版本
